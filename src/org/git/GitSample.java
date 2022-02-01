@@ -5,4 +5,8 @@ public class GitSample {
 		System.out.println("test");
 	}
 
+	private void tc2() {
+		System.out.println("test2");
+	}
+
 }
